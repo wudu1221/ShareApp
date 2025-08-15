@@ -43,7 +43,7 @@ class StoryScreen extends StatelessWidget {
                   Divider(height: 20),
                   Text(
                     story.content,
-                    style: TextStyle(fontSize: 18, height: 1.5),
+                    style: TextStyle(fontSize: 18, height: 1.5, fontWeight: FontWeight.normal),
                   ),
                 ],
               ),
