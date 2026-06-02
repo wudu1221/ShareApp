@@ -1,6 +1,6 @@
-# my_first_app
+Share Story APP in flutter
 
-A new Flutter project.
+A new Flutter project that enables users sharing thier stories.
 
 ## Getting Started
 
